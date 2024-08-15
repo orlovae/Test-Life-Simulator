@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Animation Progress Indicator -->
+    <item name="cell_dead_title_offset_x" format="float" type="dimen">0.0</item>
+    <item name="cell_dead_title_offset_y" format="float" type="dimen">9.0</item>
+    <item name="cell_dead_title_blur_radius" format="float" type="dimen">10.0</item>
+</resources>

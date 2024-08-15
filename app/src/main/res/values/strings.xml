@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test Life Simulator</string>
+
+    <string name="main_topbar_title">Клеточное наполнение</string>
+
+    <string name="button_text">Сотворить</string>
+
+    <string name="cell_dead_icon_text">💀</string>
+    <string name="cell_dead_title">Мёртвая</string>
+    <string name="cell_dead_note">или прикидывается</string>
+
+    <string name="cell_alive_icon_text">💥</string>
+    <string name="cell_alive_title">Живая</string>
+    <string name="cell_alive_note">и шевелится!</string>
+
+    <string name="cell_life_icon_text">🐣</string>
+    <string name="cell_life_title">Жизнь</string>
+    <string name="cell_life_note">Ку-ку!</string>
+
+    <string name="cell_init"></string>
+
+</resources>
